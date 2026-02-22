@@ -1,5 +1,4 @@
 **OWASP AI Attack Surface Framework (AI-AS-FW)**
-(Alternative names to avoid confusion with “ASM” / “Attack Surface Detector”: **AI Attack Surface Mapping**, **AI Surface Atlas**, **AI System Attack Surface Guide**.)
 
 ## Mission
 
